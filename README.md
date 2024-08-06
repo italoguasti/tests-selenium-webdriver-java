@@ -2,6 +2,10 @@
 
 Este repositório contém um projeto prático de automação de testes utilizando o **Selenium WebDriver** em conjunto com a linguagem de programação **Java**. Selenium WebDriver é uma das ferramentas mais populares para automação de testes em páginas web, permitindo interações diretas no navegador de forma programática.
 
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/861c5cf4-625a-4ca1-a65d-e9fb1757e340" alt="test-print" />
+</div>
+
 ## Tecnologias Utilizadas
 
 - **Selenium WebDriver**: Automatiza as ações no browser.
