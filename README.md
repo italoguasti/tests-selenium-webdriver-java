@@ -18,6 +18,7 @@ Antes de iniciar, certifique-se de que as seguintes ferramentas estão instalada
 
 ## Configuração Inicial
 
+
 Para obter o projeto, execute os seguintes comandos no terminal:
 
   ```bash
@@ -31,10 +32,15 @@ Para obter o projeto, execute os seguintes comandos no terminal:
   mvn test
   ```
 
+## Resumo do Curso
+
+Para um resumo do curso, veja o link abaixo:
+
+- [Resumo do Curso](https://gist.github.com/cami-la/119f7cb54b994ff44fda12f23e9689da) (Resumo feito por [@cami-la](https://github.com/cami-la))
+
 ## Componentes Utilizados
 
 - WebDriver: Interface central que gerencia a execução dos testes.
-- Actions: Utilizado para simular eventos complexos como arrastar e soltar.
+- Actions: Utilizado para simular eventos complexos como arrastar e solar.
 - WebDriverWait: Permite definir espera explícita para um determinado elemento.
 - Select: Facilita a interação com elementos <select> do HTML.
-
